@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills
     content:
       title: Skills
       text: ''
@@ -51,6 +52,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -86,7 +88,7 @@ sections:
           date_end: '2017-07-01'
           description: |2-
           
-              This was a summer internship at Cley Marshes Visitor Centre as a part of my GCSE work experience. I helped around the nature reserve, worked at the till, and assisted the visitors.
+              Work experience at Cley Marshes Visitor centre. I helped around the nature reserve, worked at the till, and assisted the visitors.
               
               Responsibilities included:
 
