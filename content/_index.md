@@ -55,34 +55,43 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: June 2017
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Research placement
+          company: University of East Anglia, School of Biological Sciences
+          company_url: 'https://www.uea.ac.uk/'
+          company_logo: uea
+          location: Norwich, United Kingdom
+          date_start: '2017-07-01'
+          date_end: '2017-08-31'
           description: |2-
-              Responsibilities include:
+          
+              I participated in a research project in which the goal was to sequence environmental DNA to identify the fauna of freshwater habitats.
+              
+              Responsibilities included:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Data collecting and analysis
+              * Using specialised equipment such as microscopes and centrifuges.
+        - title: Work placement
+          company: Norfolk Wildlife Trust
+          company_url: 'https://www.norfolkwildlifetrust.org.uk/home'
+          company_logo: nwt
+          location: Cley next the Sea, Norfolk
+          date_start: '2017-06-01'
+          date_end: '2017-07-01'
+          description: |2-
+          
+              This was a summer internship at Cley Marshes Visitor Centre as a part of my GCSE work experience. I helped around the nature reserve, worked at the till, and assisted the visitors.
+              
+              Responsibilities included:
+
+              * Managing reception
+              * Communicating with customers
     design:
       columns: '2'
   - block: accomplishments
