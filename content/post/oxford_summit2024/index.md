@@ -1,6 +1,6 @@
 ---
 title: Oxford University Physics Summit 2024
-date: '2024-04-04'
+date: '2024-02-25'
 ---
 
 

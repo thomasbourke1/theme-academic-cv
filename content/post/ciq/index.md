@@ -1,7 +1,9 @@
 ---
 title: Careers in Quantum 2024
-date: '2024-04-04'
+date: '2024-03-15'
 ---
+
+
 
 
 🌟 I am lucky to have recently attended the 2024 Careers in Quantum networking event, run by the Quantum Engineering Centre for Doctoral Training in collaboration with IOP Publishing and National Quantum Computing Centre (NQCC) 🌟
