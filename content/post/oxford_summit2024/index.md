@@ -1,6 +1,7 @@
 ---
 title: Oxford University Physics Summit 2024
 date: '2024-02-25'
+summary: 'Inter-university networking event with exciting talks and high-impact workshops.'
 ---
 
 

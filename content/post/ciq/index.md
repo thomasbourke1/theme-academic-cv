@@ -1,8 +1,8 @@
 ---
 title: Careers in Quantum 2024
 date: '2024-03-15'
+summary: 'Networking event at University of Bristol Quantum CDT.'
 ---
-
 
 
 
