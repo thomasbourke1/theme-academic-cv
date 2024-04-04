@@ -32,13 +32,14 @@ interests:
   - Quantum computing and cryptography
   - Condensed matter physics
   - Light-matter interaction
+  - Open hardware
 
 # Education to show in About widget
 education:
   courses:
     - course: MPhys Physics
       institution: University of Bath
-      year: 2024
+      year: 2021-present
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -47,9 +48,9 @@ skills:
     items:
       - name: Python, C, C++
         description: ''
-        percent: 80
+      #  percent: 80
         icon: python
-        icon_pack: fab
+       # icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
@@ -60,6 +61,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
+      - name: bruh
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -111,6 +113,6 @@ social:
 highlight_name: true
 ---
 
-Physics student at University of Bath currently looking to undertake an internship in summer 2024. Creative problem solver and excellent collaborator.
+Hi, I'm Tom! I like math, physics, computer science and engineering. Currently looking to participate on open source quantum projects. Looking forward to unitaryHACK 2024!
 
 {style="text-align: justify;"}
